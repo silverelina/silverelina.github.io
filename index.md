@@ -8,6 +8,7 @@
         
     <body>
       <h1>uhhhhh hi</h1>
+      <p>so like... im kinda stupid and cant rlly do much so uhhhh imma be a rock. yes. im a rock. </p>
     </body>
         
         
